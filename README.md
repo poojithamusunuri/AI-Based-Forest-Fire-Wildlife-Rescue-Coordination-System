@@ -15,45 +15,45 @@ Features:
 
 Algorithms Implemented:
 CO1:
-Intelligent Agents
-PEAS Model
+Intelligent Agents;
+PEAS Model.
 
 
 CO2:
-BFS
-DFS
-UCS
-Greedy Search
-A* Search
+BFS;
+DFS;
+UCS;
+Greedy Search;
+A* Search.
 
 
 CO3:
-CSP
-Backtracking
-MRV
-LCV
-Forward Checking
+CSP;
+Backtracking;
+MRV;
+LCV;
+Forward Checking.
 
 
 CO4:
-Utility-Based Decision Making
-Minimax
-Alpha-Beta Pruning
-Multi-Agent Coordination
+Utility-Based Decision Making;
+Minimax;
+Alpha-Beta Pruning;
+Multi-Agent Coordination.
 
 
 CO5:
-Bayes Rule
-Bayesian Networks
-Sensor Fusion
-HMM
-Markov Chain
-Belief Propagation
+Bayes Rule;
+Bayesian Networks;
+Sensor Fusion;
+HMM;
+Markov Chain;
+Belief Propagation.
 
 
 CO6:
-Hybrid AI Integration
-Technologies Used
-Python
-Object-Oriented Programming
-Artificial Intelligence Algorithms
+Hybrid AI Integration;
+Technologies Used;
+Python;
+Object-Oriented Programming;
+Artificial Intelligence Algorithms.
